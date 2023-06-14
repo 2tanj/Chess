@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Chess">
+      <UniqueIdentifier>{bd444232-1ec7-4b91-acfc-f67a389469fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sprites">
+      <UniqueIdentifier>{c9119346-a914-48ba-9ef6-02cf851d37f6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Chess\Board.cpp">
+      <Filter>Chess</Filter>
+    </ClCompile>
+    <ClCompile Include="Chess\Game.cpp">
+      <Filter>Chess</Filter>
+    </ClCompile>
+    <ClCompile Include="Chess\Gameplay.cpp">
+      <Filter>Chess</Filter>
+    </ClCompile>
+    <ClCompile Include="Chess\GameStatus.cpp">
+      <Filter>Chess</Filter>
+    </ClCompile>
+    <ClCompile Include="Chess\Move.cpp">
+      <Filter>Chess</Filter>
+    </ClCompile>
+    <ClCompile Include="Chess\Piece.cpp">
+      <Filter>Chess</Filter>
+    </ClCompile>
+    <ClCompile Include="Chess\Square.cpp">
+      <Filter>Chess</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Chess\Board.h">
+      <Filter>Chess</Filter>
+    </ClInclude>
+    <ClInclude Include="Chess\Game.h">
+      <Filter>Chess</Filter>
+    </ClInclude>
+    <ClInclude Include="Chess\Gameplay.h">
+      <Filter>Chess</Filter>
+    </ClInclude>
+    <ClInclude Include="Chess\GameStatus.h">
+      <Filter>Chess</Filter>
+    </ClInclude>
+    <ClInclude Include="Chess\Move.h">
+      <Filter>Chess</Filter>
+    </ClInclude>
+    <ClInclude Include="Chess\MoveType.h">
+      <Filter>Chess</Filter>
+    </ClInclude>
+    <ClInclude Include="Chess\Piece.h">
+      <Filter>Chess</Filter>
+    </ClInclude>
+    <ClInclude Include="Chess\PieceColor.h">
+      <Filter>Chess</Filter>
+    </ClInclude>
+    <ClInclude Include="Chess\PieceType.h">
+      <Filter>Chess</Filter>
+    </ClInclude>
+    <ClInclude Include="Chess\Square.h">
+      <Filter>Chess</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\stdc++.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Sprites\splash.png">
+      <Filter>Sprites</Filter>
+    </Image>
+    <Image Include="Sprites\arrowChess.png">
+      <Filter>Sprites</Filter>
+    </Image>
+    <Image Include="Sprites\background.png">
+      <Filter>Sprites</Filter>
+    </Image>
+    <Image Include="Sprites\controls.PNG">
+      <Filter>Sprites</Filter>
+    </Image>
+    <Image Include="Sprites\mainmenu.png">
+      <Filter>Sprites</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

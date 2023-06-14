@@ -1,0 +1,52 @@
+﻿  Sprite.cpp
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\Sprite.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(42,37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(50,52): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(51,52): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(259,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(259,40): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(294,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(295,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(297,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(299,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(301,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(305,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(307,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(309,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(311,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(315,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(317,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(319,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(321,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(325,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(327,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(329,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(331,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(336,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(337,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(343,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(347,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(353,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(357,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(363,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(367,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(373,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(387,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(388,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(445,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(445,42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(447,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(478,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(711,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(745,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(760,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(830,36): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(843,23): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(851,23): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(922,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(1036,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(1047,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\2Tanj\source\repos\CS233 - Projekat\CS233 - Projekat\main.cpp(1094,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  CS233 - Projekat.vcxproj -> C:\Users\2Tanj\source\repos\CS233 - Projekat\Debug\CS233 - Projekat.exe
